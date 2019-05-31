@@ -1,0 +1,14 @@
+{
+  "name": "svic2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:un-vector-tile-toolkit/svic2",
+  "author": "Hidenori Fujimura <hfu@users.noreply.github.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "@tilecloud/mbgl-gesture-handling": "^1.0.9"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
